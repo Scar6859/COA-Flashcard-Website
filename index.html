@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Flashcard</title>
+    <title data-i18n="title">Flashcard</title>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
@@ -15,37 +15,47 @@
   </head>
   <body>
     <div class="container">
+      <div style="text-align:right; padding:10px;">
+        <button id="langToggle">中文</button>
+      </div>
+
       <div class="add-flashcard-con">
-        <button id="add-flashcard">Add Flashcard</button>
+        <button id="add-flashcard" data-i18n="addFlashcard">Add Flashcard</button>
       </div>
       <div id="card-con">
         <div class="card-list-container"></div>
       </div>
     </div>
+
     <div class="question-container hide" id="add-question-card">
-      <h2>Add Flashcard</h2>
+      <h2 data-i18n="addFlashcardTitle">Add Flashcard</h2>
       <div class="wrapper">
         <div class="error-con">
-          <span class="hide" id="error">Input fields cannot be empty!</span>
+          <span class="hide" id="error" data-i18n="errorMsg">
+            Input fields cannot be empty!
+          </span>
         </div>
         <i class="fa-solid fa-xmark" id="close-btn"></i>
       </div>
-      <label for="question">Question:</label>
+      <label for="question" data-i18n="labelQuestion">Question:</label>
       <textarea
         class="input"
         id="question"
         placeholder="Type the question here..."
         rows="2"
+        data-i18n-placeholder="placeholderQuestion"
       ></textarea>
-      <label for="answer">Answer:</label>
+      <label for="answer" data-i18n="labelAnswer">Answer:</label>
       <textarea
         class="input"
         id="answer"
         rows="4"
         placeholder="Type the answer here..."
+        data-i18n-placeholder="placeholderAnswer"
       ></textarea>
-      <button id="save-btn">Save</button>
+      <button id="save-btn" data-i18n="saveBtn">Save</button>
     </div>
+
     <script src="script.js"></script>
   </body>
 </html>
