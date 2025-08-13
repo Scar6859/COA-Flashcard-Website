@@ -48,11 +48,12 @@ function updateLanguage() {
   });
   document.title = translations[currentLang].title;
 }
-
-document.getElementById("langToggle").addEventListener("click", () => {
-  currentLang = currentLang === "en" ? "zh" : "en";
-  document.getElementById("langToggle").textContent =
-    currentLang === "en" ? "中文" : "EN";
+const langToggle = document.getElementById("langToggle");
+let isChinese = false;
+langToggle.addEventListener("click", () => {
+  isChinese = !isChinese;
+  langToggle.classList.toggle("zh-active", isChinese);
+  currentLang = isChinese ? "zh" : "en";
   updateLanguage();
 });
 
