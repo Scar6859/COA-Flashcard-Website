@@ -178,3 +178,48 @@ textarea:focus {
     gap: 1.2em;
   }
 }
+.lang-toggle {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  background: #ddd;
+  border-radius: 20px;
+  width: 70px;
+  height: 30px;
+  cursor: pointer;
+  padding: 0 5px;
+  user-select: none;
+}
+
+.lang-option {
+  flex: 1;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  color: #555;
+  z-index: 2;
+}
+
+.toggle-slider {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 24px;
+  height: 24px;
+  background: white;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: left 0.25s ease;
+}
+
+.lang-toggle.zh-active .toggle-slider {
+  left: 43px;
+}
+
+.lang-toggle.zh-active .lang-option.zh {
+  color: #000;
+}
+
+.lang-toggle:not(.zh-active) .lang-option.en {
+  color: #000;
+}
