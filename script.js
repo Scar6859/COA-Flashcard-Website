@@ -8,6 +8,54 @@ const addQuestion = document.getElementById("add-flashcard");
 const closeBtn = document.getElementById("close-btn");
 let editBool = false;
 
+const translations = {
+  en: {
+    title: "Flashcard",
+    addFlashcard: "Add Flashcard",
+    addFlashcardTitle: "Add Flashcard",
+    errorMsg: "Input fields cannot be empty!",
+    labelQuestion: "Question:",
+    labelAnswer: "Answer:",
+    placeholderQuestion: "Type the question here...",
+    placeholderAnswer: "Type the answer here...",
+    saveBtn: "Save",
+    showHide: "Show/Hide"
+  },
+  zh: {
+    title: "抽认卡",
+    addFlashcard: "添加抽认卡",
+    addFlashcardTitle: "添加抽认卡",
+    errorMsg: "输入字段不能为空！",
+    labelQuestion: "问题：",
+    labelAnswer: "答案：",
+    placeholderQuestion: "在此输入问题...",
+    placeholderAnswer: "在此输入答案...",
+    saveBtn: "保存",
+    showHide: "显示/隐藏"
+  }
+};
+
+let currentLang = "en";
+
+function updateLanguage() {
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    const key = el.getAttribute("data-i18n");
+    el.textContent = translations[currentLang][key];
+  });
+  document.querySelectorAll("[data-i18n-placeholder]").forEach(el => {
+    const key = el.getAttribute("data-i18n-placeholder");
+    el.placeholder = translations[currentLang][key];
+  });
+  document.title = translations[currentLang].title;
+}
+
+document.getElementById("langToggle").addEventListener("click", () => {
+  currentLang = currentLang === "en" ? "zh" : "en";
+  document.getElementById("langToggle").textContent =
+    currentLang === "en" ? "中文" : "EN";
+  updateLanguage();
+});
+
 addQuestion.addEventListener("click", () => {
   container.classList.add("hide");
   question.value = "";
@@ -50,8 +98,7 @@ function viewlist() {
   var div = document.createElement("div");
   div.classList.add("card");
 
-  div.innerHTML += `
-  <p class="question-div">${question.value}</p>`;
+  div.innerHTML += `<p class="question-div">${question.value}</p>`;
   var displayAnswer = document.createElement("p");
   displayAnswer.classList.add("answer-div", "hide");
   displayAnswer.innerText = answer.value;
@@ -59,15 +106,17 @@ function viewlist() {
   var link = document.createElement("a");
   link.setAttribute("href", "#");
   link.setAttribute("class", "show-hide-btn");
-  link.innerHTML = "Show/Hide";
+  link.innerHTML = translations[currentLang].showHide;
   link.addEventListener("click", () => {
     displayAnswer.classList.toggle("hide");
   });
 
   div.appendChild(link);
   div.appendChild(displayAnswer);
+
   let buttonsCon = document.createElement("div");
   buttonsCon.classList.add("buttons-con");
+
   var editButton = document.createElement("button");
   editButton.setAttribute("class", "edit");
   editButton.innerHTML = `<i class="fa-solid fa-pen-to-square"></i>`;
@@ -77,7 +126,9 @@ function viewlist() {
     addQuestionCard.classList.remove("hide");
   });
   buttonsCon.appendChild(editButton);
+
   disableButtons(false);
+
   var deleteButton = document.createElement("button");
   deleteButton.setAttribute("class", "delete");
   deleteButton.innerHTML = `<i class="fa-solid fa-trash-can"></i>`;
@@ -90,6 +141,7 @@ function viewlist() {
   listCard[0].appendChild(div);
   hideQuestion();
 }
+
 const modifyElement = (element, edit = false) => {
   let parentDiv = element.parentElement.parentElement;
   let parentQuestion = parentDiv.querySelector(".question-div").innerText;
@@ -101,9 +153,12 @@ const modifyElement = (element, edit = false) => {
   }
   parentDiv.remove();
 };
+
 const disableButtons = (value) => {
   let editButtons = document.getElementsByClassName("edit");
   Array.from(editButtons).forEach((element) => {
     element.disabled = value;
   });
 };
+
+updateLanguage();
