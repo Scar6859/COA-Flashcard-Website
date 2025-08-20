@@ -18,6 +18,16 @@ body {
   justify-content: flex-end;
   padding: 1.2em 1em;
 }
+.file-operations-con {
+  position: fixed;
+  top: 20px;
+  left: 0;
+  padding: 10px;
+  z-index: 1000; /* Ensure it's above other elements */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
 button {
   border: none;
   outline: none;
@@ -28,6 +38,15 @@ button {
   background-color: #587ef4;
   color: #ffffff;
   padding: 0.8em 1.2em;
+  font-weight: 500;
+  border-radius: 0.4em;
+}
+
+.file-operations-con button {
+  background-color: #587ef4;
+  color: #ffffff;
+  font-size: 0.8em; /* Shrink text */
+  padding: 13px 19px; /* Re-add padding in px to maintain button size */
   font-weight: 500;
   border-radius: 0.4em;
 }
@@ -101,7 +120,7 @@ textarea:not(:last-child) {
 textarea:focus {
   border-color: #363d55;
 }
-#save-btn {
+#save-btn, #edit-save-btn {
   font-size: 1em;
   background-color: #587ef4;
   color: #ffffff;

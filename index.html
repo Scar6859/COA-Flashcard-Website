@@ -16,6 +16,7 @@
   <body>
     <div class="container">
       <div style="text-align:right; padding:10px;">
+        
         <div class="lang-toggle" id="langToggle">
           <span class="lang-option en">EN</span>
           <span class="lang-option zh">中文</span>
@@ -25,6 +26,12 @@
 
       <div class="add-flashcard-con">
         <button id="add-flashcard" data-i18n="addFlashcard">Add Flashcard</button>
+      </div>
+      <div class="file-operations-con">
+        <button id="save-flashcards" data-i18n="saveFlashcards">Save Flashcards</button>
+        <input type="file" id="load-flashcards-input" accept=".json" style="display: none;"/>
+        <button id="load-flashcards" data-i18n="loadFlashcards">Load Flashcards</button>
+        <button id="create-new-set-btn" data-i18n="createNewSet">Create a new set</button>
       </div>
       <div id="card-con">
         <div class="card-list-container"></div>
@@ -58,6 +65,35 @@
         data-i18n-placeholder="placeholderAnswer"
       ></textarea>
       <button id="save-btn" data-i18n="saveBtn">Save</button>
+    </div>
+
+    <div class="question-container hide" id="edit-question-card">
+      <h2 data-i18n="editFlashcardTitle">Edit Flashcard</h2>
+      <div class="wrapper">
+        <div class="error-con">
+          <span class="hide" id="edit-error" data-i18n="errorMsg">
+            Input fields cannot be empty!
+          </span>
+        </div>
+        <i class="fa-solid fa-xmark" id="edit-close-btn"></i>
+      </div>
+      <label for="edit-question" data-i18n="labelQuestion">Question:</label>
+      <textarea
+        class="input"
+        id="edit-question"
+        placeholder="Type the question here..."
+        rows="2"
+        data-i18n-placeholder="placeholderQuestion"
+      ></textarea>
+      <label for="edit-answer" data-i18n="labelAnswer">Answer:</label>
+      <textarea
+        class="input"
+        id="edit-answer"
+        rows="4"
+        placeholder="Type the answer here..."
+        data-i18n-placeholder="placeholderAnswer"
+      ></textarea>
+      <button id="edit-save-btn" data-i18n="saveBtn">Save</button>
     </div>
 
     <script src="script.js"></script>
