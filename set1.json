@@ -1,0 +1,42 @@
+[
+  {
+    "question": "你好",
+    "answer": "Hello"
+  },
+  {
+    "question": "早上好",
+    "answer": "Good morning"
+  },
+  {
+    "question": "晚上好",
+    "answer": "Good evening"
+  },
+  {
+    "question": "再见",
+    "answer": "Goodbye"
+  },
+  {
+    "question": "谢谢",
+    "answer": "Thank you"
+  },
+  {
+    "question": "不客气",
+    "answer": "You're welcome"
+  },
+  {
+    "question": "对不起",
+    "answer": "Sorry"
+  },
+  {
+    "question": "没关系",
+    "answer": "It's okay / No problem"
+  },
+  {
+    "question": "请问",
+    "answer": "Excuse me / May I ask"
+  },
+  {
+    "question": "我不懂",
+    "answer": "I don't understand"
+  }
+]
