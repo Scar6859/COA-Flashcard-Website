@@ -1,0 +1,42 @@
+[
+  {
+    "question": "你好吗？",
+    "answer": "How are you?"
+  },
+  {
+    "question": "我很好",
+    "answer": "I’m good"
+  },
+  {
+    "question": "你叫什么名字？",
+    "answer": "What’s your name?"
+  },
+  {
+    "question": "我叫___",
+    "answer": "My name is ___"
+  },
+  {
+    "question": "你来自哪里？",
+    "answer": "Where are you from?"
+  },
+  {
+    "question": "我来自美国",
+    "answer": "I’m from the U.S."
+  },
+  {
+    "question": "多少钱？",
+    "answer": "How much is it?"
+  },
+  {
+    "question": "厕所在哪里？",
+    "answer": "Where is the bathroom?"
+  },
+  {
+    "question": "可以帮我吗？",
+    "answer": "Can you help me?"
+  },
+  {
+    "question": "我想要这个",
+    "answer": "I want this one"
+  }
+]
