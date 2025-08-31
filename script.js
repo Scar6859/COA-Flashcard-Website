@@ -150,22 +150,51 @@ function renderFlashcards() {
 
     var buttonsCon = document.createElement("div");
     buttonsCon.classList.add("buttons-con");
+
+    // Edit button
     var editButton = document.createElement("button");
     editButton.setAttribute("class", "edit");
-    editButton.setAttribute("data-index", index); // Store index for editing
+    editButton.setAttribute("data-index", index);
     editButton.innerHTML = `<i class="fa-solid fa-pen-to-square"></i>`;
     editButton.addEventListener("click", () => {
       editFlashcard(index);
     });
+
+    // Delete button
     var deleteButton = document.createElement("button");
     deleteButton.setAttribute("class", "delete");
-    deleteButton.setAttribute("data-index", index); // Store index for deleting
+    deleteButton.setAttribute("data-index", index);
     deleteButton.innerHTML = `<i class="fa-solid fa-trash-can"></i>`;
     deleteButton.addEventListener("click", () => {
       deleteFlashcard(index);
     });
+
+    // Text-to-Speech button
+    var ttsButton = document.createElement("button");
+    ttsButton.setAttribute("class", "tts");
+    ttsButton.innerHTML = `<i class="fa-solid fa-volume-high"></i>`;
+    ttsButton.addEventListener("click", () => {
+      let utterance = new SpeechSynthesisUtterance(`${card.question}. ${card.answer}`);
+      speechSynthesis.speak(utterance);
+    });
+
+    // Switch Q/A button
+    var switchButton = document.createElement("button");
+    switchButton.setAttribute("class", "switch");
+    switchButton.innerHTML = `<i class="fa-solid fa-right-left"></i>`;
+    switchButton.addEventListener("click", () => {
+      let temp = card.question;
+      card.question = card.answer;
+      card.answer = temp;
+      renderFlashcards();
+    });
+
+    // Append buttons
     buttonsCon.appendChild(editButton);
     buttonsCon.appendChild(deleteButton);
+    buttonsCon.appendChild(ttsButton);
+    buttonsCon.appendChild(switchButton);
+
     div.appendChild(link);
     div.appendChild(displayAnswer);
     div.appendChild(buttonsCon);
@@ -175,14 +204,14 @@ function renderFlashcards() {
 
 function deleteFlashcard(index) {
   flashcards.splice(index, 1);
-  renderFlashcards(); // Re-render after deletion
+  renderFlashcards();
 }
 
 function editFlashcard(index) {
   editBool = true;
   editIndex = index;
-  addQuestionCard.classList.add("hide"); // Hide add popup
-  editQuestionCard.classList.remove("hide"); // Show edit popup
+  addQuestionCard.classList.add("hide");
+  editQuestionCard.classList.remove("hide");
   container.classList.add("hide");
   let card = flashcards[index];
   editQuestion.value = card.question;
@@ -198,7 +227,7 @@ editSaveBtn.addEventListener(
     if (!tempQuestion || !tempAnswer) {
       editErrorMessage.classList.remove("hide");
     } else {
-      editQuestionCard.classList.add("hide"); // Hide edit popup
+      editQuestionCard.classList.add("hide");
       container.classList.remove("hide");
       editErrorMessage.classList.add("hide");
       flashcards[editIndex].question = tempQuestion;
@@ -220,12 +249,11 @@ editCloseBtn.addEventListener(
     container.classList.remove("hide");
     if (editBool) {
       editBool = false;
-      // No need to call submitEditQuestion here, as it's for saving changes
     }
   })
 );
 
-// Initial render of flashcards (if any)
+// Initial render
 updateLanguage();
 
 const modifyElement = (element, edit = false) => {
@@ -252,10 +280,7 @@ const localStorage = window.localStorage;
 // Save Flashcards as JSON
 document.getElementById("save-flashcards").addEventListener("click", () => {
   const filename = prompt(translations[currentLang].chooseFilename);
-  if (filename === null) {
-    // User cancelled the prompt
-    return;
-  }
+  if (filename === null) return;
   const finalFilename = filename.trim() === "" ? "flashcards.json" : `${filename.trim()}.json`;
   const json = JSON.stringify(flashcards, null, 2);
   const blob = new Blob([json], { type: "application/json" });
@@ -271,9 +296,9 @@ document.getElementById("save-flashcards").addEventListener("click", () => {
 
 // Create a new set
 document.getElementById("create-new-set-btn").addEventListener("click", () => {
-  flashcards.length = 0; // Clear all flashcards
-  localStorage.removeItem("flashcards"); // Clear from localStorage
-  renderFlashcards(); // Re-render to clear display
+  flashcards.length = 0;
+  localStorage.removeItem("flashcards");
+  renderFlashcards();
 });
 
 // Load Flashcards from JSON
@@ -288,16 +313,17 @@ document.getElementById("load-flashcards-input").addEventListener("change", (eve
     reader.onload = (e) => {
       try {
         const loadedFlashcards = JSON.parse(e.target.result);
-        flashcards.length = 0; // Clear existing flashcards
-        flashcards.push(...loadedFlashcards); // Add loaded flashcards
+        flashcards.length = 0;
+        flashcards.push(...loadedFlashcards);
         renderFlashcards();
       } catch (e) {
         alert("Invalid JSON file.");
       } finally {
-        event.target.value = ''; // Clear the file input to allow re-loading the same file
+        event.target.value = '';
       }
     };
     reader.readAsText(file);
   }
 });
+
 // very newest code
