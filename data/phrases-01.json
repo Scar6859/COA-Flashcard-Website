@@ -1,0 +1,202 @@
+[
+  {
+    "question": "你好吗？",
+    "answer": "How are you?"
+  },
+  {
+    "question": "我很好，谢谢。",
+    "answer": "I'm fine, thank you."
+  },
+  {
+    "question": "早上好！",
+    "answer": "Good morning!"
+  },
+  {
+    "question": "晚上好！",
+    "answer": "Good evening!"
+  },
+  {
+    "question": "好久不见！",
+    "answer": "Long time no see!"
+  },
+  {
+    "question": "最近怎么样？",
+    "answer": "How have you been lately?"
+  },
+  {
+    "question": "还不错。",
+    "answer": "Not bad."
+  },
+  {
+    "question": "很高兴见到你。",
+    "answer": "Nice to meet you."
+  },
+  {
+    "question": "我也是。",
+    "answer": "Me too."
+  },
+  {
+    "question": "祝你有美好的一天！",
+    "answer": "Have a nice day!"
+  },
+  {
+    "question": "晚安。",
+    "answer": "Good night."
+  },
+  {
+    "question": "你吃了吗？",
+    "answer": "Have you eaten? (greeting)"
+  },
+  {
+    "question": "我刚吃过。",
+    "answer": "I just ate."
+  },
+  {
+    "question": "欢迎！",
+    "answer": "Welcome!"
+  },
+  {
+    "question": "一路平安。",
+    "answer": "Have a safe trip."
+  },
+  {
+    "question": "保重。",
+    "answer": "Take care."
+  },
+  {
+    "question": "回头见。",
+    "answer": "See you later."
+  },
+  {
+    "question": "明天见。",
+    "answer": "See you tomorrow."
+  },
+  {
+    "question": "周末愉快！",
+    "answer": "Have a nice weekend!"
+  },
+  {
+    "question": "节日快乐！",
+    "answer": "Happy holiday!"
+  },
+  {
+    "question": "生日快乐！",
+    "answer": "Happy birthday!"
+  },
+  {
+    "question": "恭喜！",
+    "answer": "Congratulations!"
+  },
+  {
+    "question": "新年快乐！",
+    "answer": "Happy New Year!"
+  },
+  {
+    "question": "你忙吗？",
+    "answer": "Are you busy?"
+  },
+  {
+    "question": "我不忙。",
+    "answer": "I'm not busy."
+  },
+  {
+    "question": "你在做什么？",
+    "answer": "What are you doing?"
+  },
+  {
+    "question": "我在学习中文。",
+    "answer": "I'm studying Chinese."
+  },
+  {
+    "question": "今天天气真好。",
+    "answer": "The weather is great today."
+  },
+  {
+    "question": "是啊。",
+    "answer": "Yeah."
+  },
+  {
+    "question": "真的吗？",
+    "answer": "Really?"
+  },
+  {
+    "question": "当然。",
+    "answer": "Of course."
+  },
+  {
+    "question": "也许吧。",
+    "answer": "Maybe."
+  },
+  {
+    "question": "我不知道。",
+    "answer": "I don't know."
+  },
+  {
+    "question": "我明白了。",
+    "answer": "I understand."
+  },
+  {
+    "question": "请再说一遍。",
+    "answer": "Please say it again."
+  },
+  {
+    "question": "请说慢一点。",
+    "answer": "Please speak slower."
+  },
+  {
+    "question": "你会说英语吗？",
+    "answer": "Do you speak English?"
+  },
+  {
+    "question": "我会一点中文。",
+    "answer": "I speak a little Chinese."
+  },
+  {
+    "question": "请多关照。",
+    "answer": "Please look after me."
+  },
+  {
+    "question": "彼此彼此。",
+    "answer": "Same to you."
+  },
+  {
+    "question": "有空一起吃饭吧。",
+    "answer": "Let's eat together when you're free."
+  },
+  {
+    "question": "好的，没问题。",
+    "answer": "OK, no problem."
+  },
+  {
+    "question": "到时候联系。",
+    "answer": "Contact me when the time comes."
+  },
+  {
+    "question": "我先走了。",
+    "answer": "I'm leaving first."
+  },
+  {
+    "question": "慢走。",
+    "answer": "Take care (to someone leaving)."
+  },
+  {
+    "question": "欢迎再来。",
+    "answer": "Welcome back again."
+  },
+  {
+    "question": "祝你好运！",
+    "answer": "Good luck!"
+  },
+  {
+    "question": "加油！",
+    "answer": "Keep it up! / You got this!"
+  },
+  {
+    "question": "辛苦了。",
+    "answer": "Thanks for your hard work."
+  },
+  {
+    "question": "别客气。",
+    "answer": "Don't mention it."
+  }
+]

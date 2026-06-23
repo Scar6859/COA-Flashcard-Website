@@ -1,0 +1,202 @@
+[
+  {
+    "question": "请问，怎么去火车站？",
+    "answer": "Excuse me, how do I get to the train station?"
+  },
+  {
+    "question": "直走然后左转。",
+    "answer": "Go straight and turn left."
+  },
+  {
+    "question": "直走然后右转。",
+    "answer": "Go straight and turn right."
+  },
+  {
+    "question": "在第二个路口右转。",
+    "answer": "Turn right at the second intersection."
+  },
+  {
+    "question": "过马路。",
+    "answer": "Cross the street."
+  },
+  {
+    "question": "在红绿灯那里左转。",
+    "answer": "Turn left at the traffic light."
+  },
+  {
+    "question": "就在前面。",
+    "answer": "It's just ahead."
+  },
+  {
+    "question": "离这里远吗？",
+    "answer": "Is it far from here?"
+  },
+  {
+    "question": "不远，走路十分钟。",
+    "answer": "Not far, ten minutes on foot."
+  },
+  {
+    "question": "很远，最好打车。",
+    "answer": "It's far, better take a taxi."
+  },
+  {
+    "question": "地图上的这个地方在哪里？",
+    "answer": "Where is this place on the map?"
+  },
+  {
+    "question": "我迷路了。",
+    "answer": "I'm lost."
+  },
+  {
+    "question": "你能带我去吗？",
+    "answer": "Can you take me there?"
+  },
+  {
+    "question": "这是哪条路？",
+    "answer": "What road is this?"
+  },
+  {
+    "question": "下一个站是什么？",
+    "answer": "What's the next stop?"
+  },
+  {
+    "question": "请在下一站下车。",
+    "answer": "Please get off at the next stop."
+  },
+  {
+    "question": "怎么换乘？",
+    "answer": "How do I transfer?"
+  },
+  {
+    "question": "地铁几号线？",
+    "answer": "Which subway line?"
+  },
+  {
+    "question": "往哪个方向走？",
+    "answer": "Which direction should I go?"
+  },
+  {
+    "question": "在对面。",
+    "answer": "It's across the street."
+  },
+  {
+    "question": "在拐角处。",
+    "answer": "It's at the corner."
+  },
+  {
+    "question": "在二楼。",
+    "answer": "It's on the second floor."
+  },
+  {
+    "question": "在地下室。",
+    "answer": "It's in the basement."
+  },
+  {
+    "question": "入口在哪里？",
+    "answer": "Where is the entrance?"
+  },
+  {
+    "question": "出口在哪里？",
+    "answer": "Where is the exit?"
+  },
+  {
+    "question": "停车场在哪里？",
+    "answer": "Where is the parking lot?"
+  },
+  {
+    "question": "附近有公交站吗？",
+    "answer": "Is there a bus stop nearby?"
+  },
+  {
+    "question": "首班车几点？",
+    "answer": "What time is the first train?"
+  },
+  {
+    "question": "末班车几点？",
+    "answer": "What time is the last train?"
+  },
+  {
+    "question": "堵车了。",
+    "answer": "There's a traffic jam."
+  },
+  {
+    "question": "请开快一点。",
+    "answer": "Please drive faster."
+  },
+  {
+    "question": "请在这里停车。",
+    "answer": "Please stop here."
+  },
+  {
+    "question": "到了叫我。",
+    "answer": "Let me know when we arrive."
+  },
+  {
+    "question": "大概要多长时间？",
+    "answer": "About how long will it take?"
+  },
+  {
+    "question": "走这条路对吗？",
+    "answer": "Is this the right way?"
+  },
+  {
+    "question": "错了，应该往回走。",
+    "answer": "Wrong way, you should go back."
+  },
+  {
+    "question": "沿着河走。",
+    "answer": "Walk along the river."
+  },
+  {
+    "question": "地标是什么？",
+    "answer": "What's the landmark?"
+  },
+  {
+    "question": "看到大桥就到了。",
+    "answer": "You'll see it when you see the big bridge."
+  },
+  {
+    "question": "在银行旁边。",
+    "answer": "Next to the bank."
+  },
+  {
+    "question": "在超市后面。",
+    "answer": "Behind the supermarket."
+  },
+  {
+    "question": "在学校和公园之间。",
+    "answer": "Between the school and the park."
+  },
+  {
+    "question": "往北走两百米。",
+    "answer": "Go north for 200 meters."
+  },
+  {
+    "question": "电梯在哪里？",
+    "answer": "Where is the elevator?"
+  },
+  {
+    "question": "楼梯在哪里？",
+    "answer": "Where are the stairs?"
+  },
+  {
+    "question": "请问您能画个地图吗？",
+    "answer": "Could you draw a map for me?"
+  },
+  {
+    "question": "我看看导航。",
+    "answer": "Let me check the navigation."
+  },
+  {
+    "question": "信号不好。",
+    "answer": "The signal is bad."
+  },
+  {
+    "question": "我们到了。",
+    "answer": "We've arrived."
+  },
+  {
+    "question": "谢谢您的帮助。",
+    "answer": "Thank you for your help."
+  }
+]

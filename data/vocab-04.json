@@ -1,0 +1,202 @@
+[
+  {
+    "question": "米饭",
+    "answer": "Rice"
+  },
+  {
+    "question": "面条",
+    "answer": "Noodles"
+  },
+  {
+    "question": "面包",
+    "answer": "Bread"
+  },
+  {
+    "question": "饺子",
+    "answer": "Dumplings"
+  },
+  {
+    "question": "包子",
+    "answer": "Steamed buns"
+  },
+  {
+    "question": "粥",
+    "answer": "Congee"
+  },
+  {
+    "question": "汤",
+    "answer": "Soup"
+  },
+  {
+    "question": "肉",
+    "answer": "Meat"
+  },
+  {
+    "question": "牛肉",
+    "answer": "Beef"
+  },
+  {
+    "question": "猪肉",
+    "answer": "Pork"
+  },
+  {
+    "question": "鸡肉",
+    "answer": "Chicken"
+  },
+  {
+    "question": "鱼",
+    "answer": "Fish"
+  },
+  {
+    "question": "虾",
+    "answer": "Shrimp"
+  },
+  {
+    "question": "蛋",
+    "answer": "Egg"
+  },
+  {
+    "question": "豆腐",
+    "answer": "Tofu"
+  },
+  {
+    "question": "蔬菜",
+    "answer": "Vegetables"
+  },
+  {
+    "question": "水果",
+    "answer": "Fruit"
+  },
+  {
+    "question": "苹果",
+    "answer": "Apple"
+  },
+  {
+    "question": "香蕉",
+    "answer": "Banana"
+  },
+  {
+    "question": "橙子",
+    "answer": "Orange"
+  },
+  {
+    "question": "西瓜",
+    "answer": "Watermelon"
+  },
+  {
+    "question": "葡萄",
+    "answer": "Grapes"
+  },
+  {
+    "question": "草莓",
+    "answer": "Strawberry"
+  },
+  {
+    "question": "茶",
+    "answer": "Tea"
+  },
+  {
+    "question": "咖啡",
+    "answer": "Coffee"
+  },
+  {
+    "question": "牛奶",
+    "answer": "Milk"
+  },
+  {
+    "question": "果汁",
+    "answer": "Juice"
+  },
+  {
+    "question": "啤酒",
+    "answer": "Beer"
+  },
+  {
+    "question": "水",
+    "answer": "Water"
+  },
+  {
+    "question": "糖",
+    "answer": "Sugar"
+  },
+  {
+    "question": "盐",
+    "answer": "Salt"
+  },
+  {
+    "question": "油",
+    "answer": "Oil"
+  },
+  {
+    "question": "酱油",
+    "answer": "Soy sauce"
+  },
+  {
+    "question": "辣",
+    "answer": "Spicy"
+  },
+  {
+    "question": "甜",
+    "answer": "Sweet"
+  },
+  {
+    "question": "酸",
+    "answer": "Sour"
+  },
+  {
+    "question": "苦",
+    "answer": "Bitter"
+  },
+  {
+    "question": "咸",
+    "answer": "Salty"
+  },
+  {
+    "question": "好吃",
+    "answer": "Delicious"
+  },
+  {
+    "question": "饿",
+    "answer": "Hungry"
+  },
+  {
+    "question": "渴",
+    "answer": "Thirsty"
+  },
+  {
+    "question": "饱",
+    "answer": "Full"
+  },
+  {
+    "question": "早餐",
+    "answer": "Breakfast"
+  },
+  {
+    "question": "午餐",
+    "answer": "Lunch"
+  },
+  {
+    "question": "晚餐",
+    "answer": "Dinner"
+  },
+  {
+    "question": "小吃",
+    "answer": "Snack"
+  },
+  {
+    "question": "快餐",
+    "answer": "Fast food"
+  },
+  {
+    "question": "外卖",
+    "answer": "Takeout"
+  },
+  {
+    "question": "菜谱",
+    "answer": "Recipe"
+  },
+  {
+    "question": "筷子",
+    "answer": "Chopsticks"
+  }
+]

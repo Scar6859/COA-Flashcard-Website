@@ -1,0 +1,202 @@
+[
+  {
+    "question": "零",
+    "answer": "Zero"
+  },
+  {
+    "question": "一",
+    "answer": "One"
+  },
+  {
+    "question": "二",
+    "answer": "Two"
+  },
+  {
+    "question": "三",
+    "answer": "Three"
+  },
+  {
+    "question": "四",
+    "answer": "Four"
+  },
+  {
+    "question": "五",
+    "answer": "Five"
+  },
+  {
+    "question": "六",
+    "answer": "Six"
+  },
+  {
+    "question": "七",
+    "answer": "Seven"
+  },
+  {
+    "question": "八",
+    "answer": "Eight"
+  },
+  {
+    "question": "九",
+    "answer": "Nine"
+  },
+  {
+    "question": "十",
+    "answer": "Ten"
+  },
+  {
+    "question": "百",
+    "answer": "Hundred"
+  },
+  {
+    "question": "千",
+    "answer": "Thousand"
+  },
+  {
+    "question": "万",
+    "answer": "Ten thousand"
+  },
+  {
+    "question": "第一",
+    "answer": "First"
+  },
+  {
+    "question": "第二",
+    "answer": "Second"
+  },
+  {
+    "question": "半",
+    "answer": "Half"
+  },
+  {
+    "question": "点",
+    "answer": "O'clock / point"
+  },
+  {
+    "question": "分钟",
+    "answer": "Minute"
+  },
+  {
+    "question": "小时",
+    "answer": "Hour"
+  },
+  {
+    "question": "秒",
+    "answer": "Second"
+  },
+  {
+    "question": "星期",
+    "answer": "Week"
+  },
+  {
+    "question": "星期一",
+    "answer": "Monday"
+  },
+  {
+    "question": "星期二",
+    "answer": "Tuesday"
+  },
+  {
+    "question": "星期三",
+    "answer": "Wednesday"
+  },
+  {
+    "question": "星期四",
+    "answer": "Thursday"
+  },
+  {
+    "question": "星期五",
+    "answer": "Friday"
+  },
+  {
+    "question": "星期六",
+    "answer": "Saturday"
+  },
+  {
+    "question": "星期日",
+    "answer": "Sunday"
+  },
+  {
+    "question": "月",
+    "answer": "Month"
+  },
+  {
+    "question": "年",
+    "answer": "Year"
+  },
+  {
+    "question": "春天",
+    "answer": "Spring"
+  },
+  {
+    "question": "夏天",
+    "answer": "Summer"
+  },
+  {
+    "question": "秋天",
+    "answer": "Autumn"
+  },
+  {
+    "question": "冬天",
+    "answer": "Winter"
+  },
+  {
+    "question": "早",
+    "answer": "Early"
+  },
+  {
+    "question": "晚",
+    "answer": "Late"
+  },
+  {
+    "question": "快",
+    "answer": "Fast"
+  },
+  {
+    "question": "慢",
+    "answer": "Slow"
+  },
+  {
+    "question": "时间",
+    "answer": "Time"
+  },
+  {
+    "question": "日期",
+    "answer": "Date"
+  },
+  {
+    "question": "以前",
+    "answer": "Before"
+  },
+  {
+    "question": "以后",
+    "answer": "After"
+  },
+  {
+    "question": "经常",
+    "answer": "Often"
+  },
+  {
+    "question": "有时候",
+    "answer": "Sometimes"
+  },
+  {
+    "question": "总是",
+    "answer": "Always"
+  },
+  {
+    "question": "从不",
+    "answer": "Never"
+  },
+  {
+    "question": "已经",
+    "answer": "Already"
+  },
+  {
+    "question": "还",
+    "answer": "Still"
+  },
+  {
+    "question": "马上",
+    "answer": "Right away"
+  }
+]

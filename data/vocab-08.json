@@ -1,0 +1,202 @@
+[
+  {
+    "question": "旅行",
+    "answer": "Travel"
+  },
+  {
+    "question": "旅游",
+    "answer": "Tourism"
+  },
+  {
+    "question": "机场",
+    "answer": "Airport"
+  },
+  {
+    "question": "火车站",
+    "answer": "Train station"
+  },
+  {
+    "question": "地铁站",
+    "answer": "Subway station"
+  },
+  {
+    "question": "公共汽车",
+    "answer": "Bus"
+  },
+  {
+    "question": "出租车",
+    "answer": "Taxi"
+  },
+  {
+    "question": "票",
+    "answer": "Ticket"
+  },
+  {
+    "question": "护照",
+    "answer": "Passport"
+  },
+  {
+    "question": "签证",
+    "answer": "Visa"
+  },
+  {
+    "question": "行李",
+    "answer": "Luggage"
+  },
+  {
+    "question": "酒店",
+    "answer": "Hotel"
+  },
+  {
+    "question": "房间",
+    "answer": "Room"
+  },
+  {
+    "question": "地图",
+    "answer": "Map"
+  },
+  {
+    "question": "方向",
+    "answer": "Direction"
+  },
+  {
+    "question": "东",
+    "answer": "East"
+  },
+  {
+    "question": "西",
+    "answer": "West"
+  },
+  {
+    "question": "南",
+    "answer": "South"
+  },
+  {
+    "question": "北",
+    "answer": "North"
+  },
+  {
+    "question": "左边",
+    "answer": "Left side"
+  },
+  {
+    "question": "右边",
+    "answer": "Right side"
+  },
+  {
+    "question": "前面",
+    "answer": "Front"
+  },
+  {
+    "question": "后面",
+    "answer": "Back"
+  },
+  {
+    "question": "附近",
+    "answer": "Nearby"
+  },
+  {
+    "question": "远处",
+    "answer": "Far away"
+  },
+  {
+    "question": "城市",
+    "answer": "City"
+  },
+  {
+    "question": "乡村",
+    "answer": "Countryside"
+  },
+  {
+    "question": "山",
+    "answer": "Mountain"
+  },
+  {
+    "question": "河",
+    "answer": "River"
+  },
+  {
+    "question": "海",
+    "answer": "Sea"
+  },
+  {
+    "question": "湖",
+    "answer": "Lake"
+  },
+  {
+    "question": "公园",
+    "answer": "Park"
+  },
+  {
+    "question": "博物馆",
+    "answer": "Museum"
+  },
+  {
+    "question": "商店",
+    "answer": "Shop"
+  },
+  {
+    "question": "超市",
+    "answer": "Supermarket"
+  },
+  {
+    "question": "银行",
+    "answer": "Bank"
+  },
+  {
+    "question": "邮局",
+    "answer": "Post office"
+  },
+  {
+    "question": "图书馆",
+    "answer": "Library"
+  },
+  {
+    "question": "电影院",
+    "answer": "Cinema"
+  },
+  {
+    "question": "餐厅",
+    "answer": "Restaurant"
+  },
+  {
+    "question": "厕所",
+    "answer": "Restroom"
+  },
+  {
+    "question": "路",
+    "answer": "Road"
+  },
+  {
+    "question": "街",
+    "answer": "Street"
+  },
+  {
+    "question": "桥",
+    "answer": "Bridge"
+  },
+  {
+    "question": "楼",
+    "answer": "Building / floor"
+  },
+  {
+    "question": "入口",
+    "answer": "Entrance"
+  },
+  {
+    "question": "出口",
+    "answer": "Exit"
+  },
+  {
+    "question": "停车",
+    "answer": "Parking"
+  },
+  {
+    "question": "风景",
+    "answer": "Scenery"
+  },
+  {
+    "question": "照片",
+    "answer": "Photo"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "vocab-01",
+    "type": "vocab",
+    "nameEn": "Greetings & Basics",
+    "nameZh": "问候与基础",
+    "cardCount": 50,
+    "file": "data/vocab-01.json"
+  },
+  {
+    "id": "vocab-02",
+    "type": "vocab",
+    "nameEn": "Numbers & Time",
+    "nameZh": "数字与时间",
+    "cardCount": 50,
+    "file": "data/vocab-02.json"
+  },
+  {
+    "id": "vocab-03",
+    "type": "vocab",
+    "nameEn": "Family & People",
+    "nameZh": "家庭与人物",
+    "cardCount": 50,
+    "file": "data/vocab-03.json"
+  },
+  {
+    "id": "vocab-04",
+    "type": "vocab",
+    "nameEn": "Food & Drink",
+    "nameZh": "食物与饮料",
+    "cardCount": 50,
+    "file": "data/vocab-04.json"
+  },
+  {
+    "id": "vocab-05",
+    "type": "vocab",
+    "nameEn": "Colors & Adjectives",
+    "nameZh": "颜色与形容词",
+    "cardCount": 50,
+    "file": "data/vocab-05.json"
+  },
+  {
+    "id": "vocab-06",
+    "type": "vocab",
+    "nameEn": "Body & Health",
+    "nameZh": "身体与健康",
+    "cardCount": 50,
+    "file": "data/vocab-06.json"
+  },
+  {
+    "id": "vocab-07",
+    "type": "vocab",
+    "nameEn": "School & Work",
+    "nameZh": "学校与工作",
+    "cardCount": 50,
+    "file": "data/vocab-07.json"
+  },
+  {
+    "id": "vocab-08",
+    "type": "vocab",
+    "nameEn": "Travel & Places",
+    "nameZh": "旅行与地点",
+    "cardCount": 50,
+    "file": "data/vocab-08.json"
+  },
+  {
+    "id": "vocab-09",
+    "type": "vocab",
+    "nameEn": "Animals & Nature",
+    "nameZh": "动物与自然",
+    "cardCount": 50,
+    "file": "data/vocab-09.json"
+  },
+  {
+    "id": "vocab-10",
+    "type": "vocab",
+    "nameEn": "Technology & Daily Life",
+    "nameZh": "科技与日常生活",
+    "cardCount": 50,
+    "file": "data/vocab-10.json"
+  },
+  {
+    "id": "phrases-01",
+    "type": "phrases",
+    "nameEn": "Daily Greetings",
+    "nameZh": "日常问候",
+    "cardCount": 50,
+    "file": "data/phrases-01.json"
+  },
+  {
+    "id": "phrases-02",
+    "type": "phrases",
+    "nameEn": "Shopping",
+    "nameZh": "购物",
+    "cardCount": 50,
+    "file": "data/phrases-02.json"
+  },
+  {
+    "id": "phrases-03",
+    "type": "phrases",
+    "nameEn": "Restaurant",
+    "nameZh": "餐厅",
+    "cardCount": 50,
+    "file": "data/phrases-03.json"
+  },
+  {
+    "id": "phrases-04",
+    "type": "phrases",
+    "nameEn": "Directions",
+    "nameZh": "问路",
+    "cardCount": 50,
+    "file": "data/phrases-04.json"
+  },
+  {
+    "id": "phrases-05",
+    "type": "phrases",
+    "nameEn": "Phone & Internet",
+    "nameZh": "电话与网络",
+    "cardCount": 50,
+    "file": "data/phrases-05.json"
+  },
+  {
+    "id": "phrases-06",
+    "type": "phrases",
+    "nameEn": "Weather & Small Talk",
+    "nameZh": "天气与闲聊",
+    "cardCount": 50,
+    "file": "data/phrases-06.json"
+  },
+  {
+    "id": "phrases-07",
+    "type": "phrases",
+    "nameEn": "Health & Doctor",
+    "nameZh": "健康与就医",
+    "cardCount": 50,
+    "file": "data/phrases-07.json"
+  },
+  {
+    "id": "phrases-08",
+    "type": "phrases",
+    "nameEn": "Work & Office",
+    "nameZh": "工作与办公室",
+    "cardCount": 50,
+    "file": "data/phrases-08.json"
+  },
+  {
+    "id": "phrases-09",
+    "type": "phrases",
+    "nameEn": "Social & Friends",
+    "nameZh": "社交与朋友",
+    "cardCount": 50,
+    "file": "data/phrases-09.json"
+  },
+  {
+    "id": "phrases-10",
+    "type": "phrases",
+    "nameEn": "Emergency & Help",
+    "nameZh": "紧急与求助",
+    "cardCount": 50,
+    "file": "data/phrases-10.json"
+  }
+]

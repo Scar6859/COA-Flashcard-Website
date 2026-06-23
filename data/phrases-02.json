@@ -1,0 +1,202 @@
+[
+  {
+    "question": "这个多少钱？",
+    "answer": "How much is this?"
+  },
+  {
+    "question": "太贵了。",
+    "answer": "It's too expensive."
+  },
+  {
+    "question": "便宜一点吧。",
+    "answer": "Can you make it cheaper?"
+  },
+  {
+    "question": "我要买这个。",
+    "answer": "I want to buy this."
+  },
+  {
+    "question": "有别的颜色吗？",
+    "answer": "Do you have other colors?"
+  },
+  {
+    "question": "有大一点的吗？",
+    "answer": "Do you have a bigger size?"
+  },
+  {
+    "question": "有小一点的吗？",
+    "answer": "Do you have a smaller size?"
+  },
+  {
+    "question": "可以试穿吗？",
+    "answer": "Can I try it on?"
+  },
+  {
+    "question": "试衣间在哪里？",
+    "answer": "Where is the fitting room?"
+  },
+  {
+    "question": "我只需要看看。",
+    "answer": "I'm just looking."
+  },
+  {
+    "question": "请给我一个袋子。",
+    "answer": "Please give me a bag."
+  },
+  {
+    "question": "可以刷卡吗？",
+    "answer": "Can I pay by card?"
+  },
+  {
+    "question": "可以扫码支付吗？",
+    "answer": "Can I pay by scanning QR code?"
+  },
+  {
+    "question": "有收据吗？",
+    "answer": "Do you have a receipt?"
+  },
+  {
+    "question": "可以退货吗？",
+    "answer": "Can I return this?"
+  },
+  {
+    "question": "有保修吗？",
+    "answer": "Is there a warranty?"
+  },
+  {
+    "question": "打几折？",
+    "answer": "What's the discount?"
+  },
+  {
+    "question": "买一送一吗？",
+    "answer": "Is it buy one get one free?"
+  },
+  {
+    "question": "我要两个。",
+    "answer": "I want two."
+  },
+  {
+    "question": "一共多少钱？",
+    "answer": "How much in total?"
+  },
+  {
+    "question": "找零请给我。",
+    "answer": "Please give me the change."
+  },
+  {
+    "question": "不用找了。",
+    "answer": "Keep the change."
+  },
+  {
+    "question": "有现货吗？",
+    "answer": "Is it in stock?"
+  },
+  {
+    "question": "什么时候到货？",
+    "answer": "When will it arrive?"
+  },
+  {
+    "question": "请帮我包起来。",
+    "answer": "Please wrap it for me."
+  },
+  {
+    "question": "这是礼物。",
+    "answer": "This is a gift."
+  },
+  {
+    "question": "有没有新款？",
+    "answer": "Do you have new models?"
+  },
+  {
+    "question": "和照片上一样吗？",
+    "answer": "Is it the same as in the photo?"
+  },
+  {
+    "question": "质量怎么样？",
+    "answer": "How is the quality?"
+  },
+  {
+    "question": "我对比一下。",
+    "answer": "Let me compare."
+  },
+  {
+    "question": "我再考虑一下。",
+    "answer": "I'll think about it."
+  },
+  {
+    "question": "今天有活动吗？",
+    "answer": "Are there any promotions today?"
+  },
+  {
+    "question": "会员有优惠吗？",
+    "answer": "Is there a member discount?"
+  },
+  {
+    "question": "请推荐一下。",
+    "answer": "Please recommend something."
+  },
+  {
+    "question": "哪个更受欢迎？",
+    "answer": "Which is more popular?"
+  },
+  {
+    "question": "我要退款。",
+    "answer": "I want a refund."
+  },
+  {
+    "question": "这个东西坏了。",
+    "answer": "This item is broken."
+  },
+  {
+    "question": "能换一个新的吗？",
+    "answer": "Can I exchange for a new one?"
+  },
+  {
+    "question": "发票抬头是什么？",
+    "answer": "What is the invoice title?"
+  },
+  {
+    "question": "请开发票。",
+    "answer": "Please issue an invoice."
+  },
+  {
+    "question": "超市在哪里？",
+    "answer": "Where is the supermarket?"
+  },
+  {
+    "question": "药店在几楼？",
+    "answer": "Which floor is the pharmacy on?"
+  },
+  {
+    "question": "营业到几点？",
+    "answer": "What time do you close?"
+  },
+  {
+    "question": "现在开门吗？",
+    "answer": "Are you open now?"
+  },
+  {
+    "question": "购物车在哪里？",
+    "answer": "Where are the shopping carts?"
+  },
+  {
+    "question": "自助结账在哪里？",
+    "answer": "Where is self-checkout?"
+  },
+  {
+    "question": "请帮我称一下。",
+    "answer": "Please weigh this for me."
+  },
+  {
+    "question": "这是进口的吗？",
+    "answer": "Is this imported?"
+  },
+  {
+    "question": "保质期到什么时候？",
+    "answer": "What's the expiration date?"
+  },
+  {
+    "question": "我找到了。",
+    "answer": "I found it."
+  }
+]

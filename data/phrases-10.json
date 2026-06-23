@@ -1,0 +1,202 @@
+[
+  {
+    "question": "救命！",
+    "answer": "Help!"
+  },
+  {
+    "question": "请帮帮我！",
+    "answer": "Please help me!"
+  },
+  {
+    "question": "叫警察！",
+    "answer": "Call the police!"
+  },
+  {
+    "question": "叫救护车！",
+    "answer": "Call an ambulance!"
+  },
+  {
+    "question": "着火了！",
+    "answer": "Fire!"
+  },
+  {
+    "question": "有人受伤了。",
+    "answer": "Someone is injured."
+  },
+  {
+    "question": "我丢了钱包。",
+    "answer": "I lost my wallet."
+  },
+  {
+    "question": "护照丢了。",
+    "answer": "I lost my passport."
+  },
+  {
+    "question": "手机被偷了。",
+    "answer": "My phone was stolen."
+  },
+  {
+    "question": "请报警。",
+    "answer": "Please call the police."
+  },
+  {
+    "question": "警察局在哪里？",
+    "answer": "Where is the police station?"
+  },
+  {
+    "question": "我遇到麻烦了。",
+    "answer": "I'm in trouble."
+  },
+  {
+    "question": "请说慢一点，我不懂。",
+    "answer": "Please speak slower, I don't understand."
+  },
+  {
+    "question": "有会说英语的人吗？",
+    "answer": "Is there someone who speaks English?"
+  },
+  {
+    "question": "请翻译一下。",
+    "answer": "Please translate."
+  },
+  {
+    "question": "这是紧急情况。",
+    "answer": "This is an emergency."
+  },
+  {
+    "question": "我迷路了，请帮帮我。",
+    "answer": "I'm lost, please help me."
+  },
+  {
+    "question": "我的朋友不见了。",
+    "answer": "My friend is missing."
+  },
+  {
+    "question": "孩子走丢了。",
+    "answer": "The child is lost."
+  },
+  {
+    "question": "请广播找人。",
+    "answer": "Please make an announcement to find someone."
+  },
+  {
+    "question": "我晕倒了。",
+    "answer": "I fainted."
+  },
+  {
+    "question": "呼吸困难。",
+    "answer": "Difficulty breathing."
+  },
+  {
+    "question": "胸口疼。",
+    "answer": "Chest pain."
+  },
+  {
+    "question": "流血了，需要包扎。",
+    "answer": "Bleeding, needs bandaging."
+  },
+  {
+    "question": "交通事故。",
+    "answer": "Traffic accident."
+  },
+  {
+    "question": "请叫拖车。",
+    "answer": "Please call a tow truck."
+  },
+  {
+    "question": "车险电话是多少？",
+    "answer": "What's the insurance hotline?"
+  },
+  {
+    "question": "地震了！",
+    "answer": "Earthquake!"
+  },
+  {
+    "question": "快去空地。",
+    "answer": "Go to open ground quickly."
+  },
+  {
+    "question": "停电了。",
+    "answer": "Power outage."
+  },
+  {
+    "question": "水龙头漏水。",
+    "answer": "The faucet is leaking."
+  },
+  {
+    "question": "门锁不上了。",
+    "answer": "The door won't lock."
+  },
+  {
+    "question": "钥匙忘在家里了。",
+    "answer": "I forgot my keys at home."
+  },
+  {
+    "question": "请找开锁师傅。",
+    "answer": "Please find a locksmith."
+  },
+  {
+    "question": "电梯困人了。",
+    "answer": "Someone is trapped in the elevator."
+  },
+  {
+    "question": "天然气泄漏。",
+    "answer": "Gas leak."
+  },
+  {
+    "question": "请关煤气。",
+    "answer": "Please turn off the gas."
+  },
+  {
+    "question": "小心！",
+    "answer": "Watch out!"
+  },
+  {
+    "question": "别动！",
+    "answer": "Don't move!"
+  },
+  {
+    "question": "远离这里。",
+    "answer": "Stay away from here."
+  },
+  {
+    "question": "安全出口在这边。",
+    "answer": "Emergency exit this way."
+  },
+  {
+    "question": "请排队。",
+    "answer": "Please line up."
+  },
+  {
+    "question": "不要拥挤。",
+    "answer": "Don't push."
+  },
+  {
+    "question": "我崴了脚，走不了。",
+    "answer": "I sprained my ankle, can't walk."
+  },
+  {
+    "question": "请给我水。",
+    "answer": "Please give me water."
+  },
+  {
+    "question": "我中暑了。",
+    "answer": "I have heatstroke."
+  },
+  {
+    "question": "太冷了，我冻坏了。",
+    "answer": "Too cold, I'm freezing."
+  },
+  {
+    "question": "请联系我的家人。",
+    "answer": "Please contact my family."
+  },
+  {
+    "question": "这是我的紧急联系人。",
+    "answer": "This is my emergency contact."
+  },
+  {
+    "question": "谢谢你的帮助。",
+    "answer": "Thank you for your help."
+  }
+]

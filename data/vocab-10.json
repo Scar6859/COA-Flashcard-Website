@@ -1,0 +1,202 @@
+[
+  {
+    "question": "电脑",
+    "answer": "Computer"
+  },
+  {
+    "question": "手机",
+    "answer": "Cell phone"
+  },
+  {
+    "question": "平板",
+    "answer": "Tablet"
+  },
+  {
+    "question": "电视",
+    "answer": "TV"
+  },
+  {
+    "question": "相机",
+    "answer": "Camera"
+  },
+  {
+    "question": "耳机",
+    "answer": "Headphones"
+  },
+  {
+    "question": "充电器",
+    "answer": "Charger"
+  },
+  {
+    "question": "电池",
+    "answer": "Battery"
+  },
+  {
+    "question": "网络",
+    "answer": "Internet"
+  },
+  {
+    "question": "网站",
+    "answer": "Website"
+  },
+  {
+    "question": "软件",
+    "answer": "Software"
+  },
+  {
+    "question": "应用",
+    "answer": "App"
+  },
+  {
+    "question": "密码",
+    "answer": "Password"
+  },
+  {
+    "question": "账号",
+    "answer": "Account"
+  },
+  {
+    "question": "下载",
+    "answer": "Download"
+  },
+  {
+    "question": "上传",
+    "answer": "Upload"
+  },
+  {
+    "question": "搜索",
+    "answer": "Search"
+  },
+  {
+    "question": "点击",
+    "answer": "Click"
+  },
+  {
+    "question": "屏幕",
+    "answer": "Screen"
+  },
+  {
+    "question": "键盘",
+    "answer": "Keyboard"
+  },
+  {
+    "question": "鼠标",
+    "answer": "Mouse"
+  },
+  {
+    "question": "打印",
+    "answer": "Print"
+  },
+  {
+    "question": "扫描",
+    "answer": "Scan"
+  },
+  {
+    "question": "文件",
+    "answer": "File"
+  },
+  {
+    "question": "文件夹",
+    "answer": "Folder"
+  },
+  {
+    "question": "衣服",
+    "answer": "Clothes"
+  },
+  {
+    "question": "裤子",
+    "answer": "Pants"
+  },
+  {
+    "question": "鞋子",
+    "answer": "Shoes"
+  },
+  {
+    "question": "帽子",
+    "answer": "Hat"
+  },
+  {
+    "question": "包",
+    "answer": "Bag"
+  },
+  {
+    "question": "手表",
+    "answer": "Watch"
+  },
+  {
+    "question": "眼镜",
+    "answer": "Glasses"
+  },
+  {
+    "question": "伞",
+    "answer": "Umbrella"
+  },
+  {
+    "question": "钥匙",
+    "answer": "Key"
+  },
+  {
+    "question": "钱包",
+    "answer": "Wallet"
+  },
+  {
+    "question": "钱",
+    "answer": "Money"
+  },
+  {
+    "question": "信用卡",
+    "answer": "Credit card"
+  },
+  {
+    "question": "现金",
+    "answer": "Cash"
+  },
+  {
+    "question": "价格",
+    "answer": "Price"
+  },
+  {
+    "question": "便宜",
+    "answer": "Cheap"
+  },
+  {
+    "question": "贵",
+    "answer": "Expensive"
+  },
+  {
+    "question": "打折",
+    "answer": "Discount"
+  },
+  {
+    "question": "购物",
+    "answer": "Shopping"
+  },
+  {
+    "question": "快递",
+    "answer": "Delivery"
+  },
+  {
+    "question": "洗衣",
+    "answer": "Laundry"
+  },
+  {
+    "question": "打扫",
+    "answer": "Clean (verb)"
+  },
+  {
+    "question": "做饭",
+    "answer": "Cook"
+  },
+  {
+    "question": "洗澡",
+    "answer": "Take a bath"
+  },
+  {
+    "question": "起床",
+    "answer": "Get up"
+  },
+  {
+    "question": "睡觉",
+    "answer": "Go to sleep"
+  }
+]

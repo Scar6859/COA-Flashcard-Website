@@ -1,0 +1,202 @@
+[
+  {
+    "question": "学校",
+    "answer": "School"
+  },
+  {
+    "question": "大学",
+    "answer": "University"
+  },
+  {
+    "question": "中学",
+    "answer": "Middle school"
+  },
+  {
+    "question": "小学",
+    "answer": "Elementary school"
+  },
+  {
+    "question": "教室",
+    "answer": "Classroom"
+  },
+  {
+    "question": "图书馆",
+    "answer": "Library"
+  },
+  {
+    "question": "实验室",
+    "answer": "Laboratory"
+  },
+  {
+    "question": "作业",
+    "answer": "Homework"
+  },
+  {
+    "question": "考试",
+    "answer": "Exam"
+  },
+  {
+    "question": "成绩",
+    "answer": "Grade / score"
+  },
+  {
+    "question": "课本",
+    "answer": "Textbook"
+  },
+  {
+    "question": "笔记",
+    "answer": "Notes"
+  },
+  {
+    "question": "铅笔",
+    "answer": "Pencil"
+  },
+  {
+    "question": "钢笔",
+    "answer": "Pen"
+  },
+  {
+    "question": "橡皮",
+    "answer": "Eraser"
+  },
+  {
+    "question": "书包",
+    "answer": "Schoolbag"
+  },
+  {
+    "question": "课",
+    "answer": "Class / lesson"
+  },
+  {
+    "question": "数学",
+    "answer": "Math"
+  },
+  {
+    "question": "科学",
+    "answer": "Science"
+  },
+  {
+    "question": "历史",
+    "answer": "History"
+  },
+  {
+    "question": "地理",
+    "answer": "Geography"
+  },
+  {
+    "question": "音乐",
+    "answer": "Music"
+  },
+  {
+    "question": "体育",
+    "answer": "PE"
+  },
+  {
+    "question": "艺术",
+    "answer": "Art"
+  },
+  {
+    "question": "公司",
+    "answer": "Company"
+  },
+  {
+    "question": "办公室",
+    "answer": "Office"
+  },
+  {
+    "question": "会议",
+    "answer": "Meeting"
+  },
+  {
+    "question": "项目",
+    "answer": "Project"
+  },
+  {
+    "question": "任务",
+    "answer": "Task"
+  },
+  {
+    "question": "报告",
+    "answer": "Report"
+  },
+  {
+    "question": "邮件",
+    "answer": "Email"
+  },
+  {
+    "question": "电话",
+    "answer": "Phone call"
+  },
+  {
+    "question": "工资",
+    "answer": "Salary"
+  },
+  {
+    "question": "假期",
+    "answer": "Holiday / vacation"
+  },
+  {
+    "question": "加班",
+    "answer": "Overtime"
+  },
+  {
+    "question": "辞职",
+    "answer": "Resign"
+  },
+  {
+    "question": "招聘",
+    "answer": "Recruitment"
+  },
+  {
+    "question": "面试",
+    "answer": "Interview"
+  },
+  {
+    "question": "简历",
+    "answer": "Resume"
+  },
+  {
+    "question": "经验",
+    "answer": "Experience"
+  },
+  {
+    "question": "技能",
+    "answer": "Skill"
+  },
+  {
+    "question": "培训",
+    "answer": "Training"
+  },
+  {
+    "question": "同事",
+    "answer": "Colleague"
+  },
+  {
+    "question": "上司",
+    "answer": "Supervisor"
+  },
+  {
+    "question": "下属",
+    "answer": "Subordinate"
+  },
+  {
+    "question": "客户",
+    "answer": "Client"
+  },
+  {
+    "question": "合同",
+    "answer": "Contract"
+  },
+  {
+    "question": "利润",
+    "answer": "Profit"
+  },
+  {
+    "question": "市场",
+    "answer": "Market"
+  },
+  {
+    "question": "销售",
+    "answer": "Sales"
+  }
+]

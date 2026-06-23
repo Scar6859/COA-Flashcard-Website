@@ -1,0 +1,202 @@
+[
+  {
+    "question": "你好",
+    "answer": "Hello"
+  },
+  {
+    "question": "再见",
+    "answer": "Goodbye"
+  },
+  {
+    "question": "谢谢",
+    "answer": "Thank you"
+  },
+  {
+    "question": "不客气",
+    "answer": "You're welcome"
+  },
+  {
+    "question": "对不起",
+    "answer": "Sorry"
+  },
+  {
+    "question": "没关系",
+    "answer": "No problem"
+  },
+  {
+    "question": "请",
+    "answer": "Please"
+  },
+  {
+    "question": "是",
+    "answer": "Yes"
+  },
+  {
+    "question": "不是",
+    "answer": "No"
+  },
+  {
+    "question": "好",
+    "answer": "Good"
+  },
+  {
+    "question": "不好",
+    "answer": "Not good"
+  },
+  {
+    "question": "可以",
+    "answer": "Can / OK"
+  },
+  {
+    "question": "不可以",
+    "answer": "Cannot"
+  },
+  {
+    "question": "要",
+    "answer": "Want / need"
+  },
+  {
+    "question": "不要",
+    "answer": "Don't want"
+  },
+  {
+    "question": "有",
+    "answer": "Have"
+  },
+  {
+    "question": "没有",
+    "answer": "Don't have"
+  },
+  {
+    "question": "在",
+    "answer": "At / in"
+  },
+  {
+    "question": "不在",
+    "answer": "Not here"
+  },
+  {
+    "question": "我",
+    "answer": "I / me"
+  },
+  {
+    "question": "你",
+    "answer": "You"
+  },
+  {
+    "question": "他",
+    "answer": "He"
+  },
+  {
+    "question": "她",
+    "answer": "She"
+  },
+  {
+    "question": "我们",
+    "answer": "We"
+  },
+  {
+    "question": "你们",
+    "answer": "You (plural)"
+  },
+  {
+    "question": "他们",
+    "answer": "They"
+  },
+  {
+    "question": "这",
+    "answer": "This"
+  },
+  {
+    "question": "那",
+    "answer": "That"
+  },
+  {
+    "question": "什么",
+    "answer": "What"
+  },
+  {
+    "question": "谁",
+    "answer": "Who"
+  },
+  {
+    "question": "哪里",
+    "answer": "Where"
+  },
+  {
+    "question": "为什么",
+    "answer": "Why"
+  },
+  {
+    "question": "怎么",
+    "answer": "How"
+  },
+  {
+    "question": "多少",
+    "answer": "How much / many"
+  },
+  {
+    "question": "几",
+    "answer": "How many"
+  },
+  {
+    "question": "现在",
+    "answer": "Now"
+  },
+  {
+    "question": "今天",
+    "answer": "Today"
+  },
+  {
+    "question": "明天",
+    "answer": "Tomorrow"
+  },
+  {
+    "question": "昨天",
+    "answer": "Yesterday"
+  },
+  {
+    "question": "早上",
+    "answer": "Morning"
+  },
+  {
+    "question": "中午",
+    "answer": "Noon"
+  },
+  {
+    "question": "晚上",
+    "answer": "Evening"
+  },
+  {
+    "question": "名字",
+    "answer": "Name"
+  },
+  {
+    "question": "朋友",
+    "answer": "Friend"
+  },
+  {
+    "question": "家",
+    "answer": "Home / family"
+  },
+  {
+    "question": "工作",
+    "answer": "Work"
+  },
+  {
+    "question": "学习",
+    "answer": "Study"
+  },
+  {
+    "question": "喜欢",
+    "answer": "Like"
+  },
+  {
+    "question": "爱",
+    "answer": "Love"
+  },
+  {
+    "question": "知道",
+    "answer": "Know"
+  }
+]

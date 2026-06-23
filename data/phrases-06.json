@@ -1,0 +1,202 @@
+[
+  {
+    "question": "今天天气怎么样？",
+    "answer": "How's the weather today?"
+  },
+  {
+    "question": "今天很热。",
+    "answer": "It's very hot today."
+  },
+  {
+    "question": "今天很冷。",
+    "answer": "It's very cold today."
+  },
+  {
+    "question": "下雨了。",
+    "answer": "It's raining."
+  },
+  {
+    "question": "下雪了。",
+    "answer": "It's snowing."
+  },
+  {
+    "question": "刮风了。",
+    "answer": "It's windy."
+  },
+  {
+    "question": "出太阳了。",
+    "answer": "The sun is out."
+  },
+  {
+    "question": "阴天。",
+    "answer": "It's cloudy."
+  },
+  {
+    "question": "记得带伞。",
+    "answer": "Remember to bring an umbrella."
+  },
+  {
+    "question": "多穿点衣服。",
+    "answer": "Wear more clothes."
+  },
+  {
+    "question": "气温多少度？",
+    "answer": "What's the temperature?"
+  },
+  {
+    "question": "湿度很大。",
+    "answer": "The humidity is high."
+  },
+  {
+    "question": "有雾霾。",
+    "answer": "There's smog."
+  },
+  {
+    "question": "空气质量不好。",
+    "answer": "Air quality is poor."
+  },
+  {
+    "question": "春天来了。",
+    "answer": "Spring is here."
+  },
+  {
+    "question": "夏天太热了。",
+    "answer": "Summer is too hot."
+  },
+  {
+    "question": "秋高气爽。",
+    "answer": "Clear autumn weather."
+  },
+  {
+    "question": "冬天要到了。",
+    "answer": "Winter is coming."
+  },
+  {
+    "question": "你老家天气怎样？",
+    "answer": "How's the weather in your hometown?"
+  },
+  {
+    "question": "这边四季分明。",
+    "answer": "The seasons are distinct here."
+  },
+  {
+    "question": "最近忙什么呢？",
+    "answer": "What have you been busy with lately?"
+  },
+  {
+    "question": "工作还顺利吗？",
+    "answer": "Is work going well?"
+  },
+  {
+    "question": "家人都好吗？",
+    "answer": "Is your family doing well?"
+  },
+  {
+    "question": "孩子多大了？",
+    "answer": "How old is your child?"
+  },
+  {
+    "question": "你喜欢什么运动？",
+    "answer": "What sports do you like?"
+  },
+  {
+    "question": "周末有什么计划？",
+    "answer": "Any plans for the weekend?"
+  },
+  {
+    "question": "我喜欢看电影。",
+    "answer": "I like watching movies."
+  },
+  {
+    "question": "你喜欢吃什么？",
+    "answer": "What food do you like?"
+  },
+  {
+    "question": "我最近在学做饭。",
+    "answer": "I've been learning to cook lately."
+  },
+  {
+    "question": "你有什么爱好？",
+    "answer": "What are your hobbies?"
+  },
+  {
+    "question": "我喜欢旅行。",
+    "answer": "I like traveling."
+  },
+  {
+    "question": "你去过中国吗？",
+    "answer": "Have you been to China?"
+  },
+  {
+    "question": "中国很大。",
+    "answer": "China is very big."
+  },
+  {
+    "question": "你住在哪个城市？",
+    "answer": "Which city do you live in?"
+  },
+  {
+    "question": "我住在北京。",
+    "answer": "I live in Beijing."
+  },
+  {
+    "question": "上海很现代。",
+    "answer": "Shanghai is very modern."
+  },
+  {
+    "question": "这里人很热情。",
+    "answer": "People here are very friendly."
+  },
+  {
+    "question": "你觉得怎么样？",
+    "answer": "What do you think?"
+  },
+  {
+    "question": "我觉得不错。",
+    "answer": "I think it's pretty good."
+  },
+  {
+    "question": "有道理。",
+    "answer": "That makes sense."
+  },
+  {
+    "question": "开玩笑的。",
+    "answer": "Just kidding."
+  },
+  {
+    "question": "真的假的？",
+    "answer": "Really or not?"
+  },
+  {
+    "question": "太有趣了。",
+    "answer": "That's so interesting."
+  },
+  {
+    "question": "我也这么想。",
+    "answer": "I think so too."
+  },
+  {
+    "question": "改天聊。",
+    "answer": "Let's chat another day."
+  },
+  {
+    "question": "保持联系。",
+    "answer": "Stay in touch."
+  },
+  {
+    "question": "很高兴和你聊天。",
+    "answer": "Nice chatting with you."
+  },
+  {
+    "question": "时间过得真快。",
+    "answer": "Time flies."
+  },
+  {
+    "question": "今天聊得很开心。",
+    "answer": "I had a great chat today."
+  },
+  {
+    "question": "今天天气怎么样？",
+    "answer": "How's the weather today?"
+  }
+]

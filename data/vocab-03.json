@@ -1,0 +1,202 @@
+[
+  {
+    "question": "爸爸",
+    "answer": "Dad"
+  },
+  {
+    "question": "妈妈",
+    "answer": "Mom"
+  },
+  {
+    "question": "父母",
+    "answer": "Parents"
+  },
+  {
+    "question": "儿子",
+    "answer": "Son"
+  },
+  {
+    "question": "女儿",
+    "answer": "Daughter"
+  },
+  {
+    "question": "哥哥",
+    "answer": "Older brother"
+  },
+  {
+    "question": "弟弟",
+    "answer": "Younger brother"
+  },
+  {
+    "question": "姐姐",
+    "answer": "Older sister"
+  },
+  {
+    "question": "妹妹",
+    "answer": "Younger sister"
+  },
+  {
+    "question": "爷爷",
+    "answer": "Grandfather (paternal)"
+  },
+  {
+    "question": "奶奶",
+    "answer": "Grandmother (paternal)"
+  },
+  {
+    "question": "外公",
+    "answer": "Grandfather (maternal)"
+  },
+  {
+    "question": "外婆",
+    "answer": "Grandmother (maternal)"
+  },
+  {
+    "question": "丈夫",
+    "answer": "Husband"
+  },
+  {
+    "question": "妻子",
+    "answer": "Wife"
+  },
+  {
+    "question": "孩子",
+    "answer": "Child"
+  },
+  {
+    "question": "婴儿",
+    "answer": "Baby"
+  },
+  {
+    "question": "男人",
+    "answer": "Man"
+  },
+  {
+    "question": "女人",
+    "answer": "Woman"
+  },
+  {
+    "question": "男孩",
+    "answer": "Boy"
+  },
+  {
+    "question": "女孩",
+    "answer": "Girl"
+  },
+  {
+    "question": "老师",
+    "answer": "Teacher"
+  },
+  {
+    "question": "学生",
+    "answer": "Student"
+  },
+  {
+    "question": "医生",
+    "answer": "Doctor"
+  },
+  {
+    "question": "护士",
+    "answer": "Nurse"
+  },
+  {
+    "question": "警察",
+    "answer": "Police officer"
+  },
+  {
+    "question": "司机",
+    "answer": "Driver"
+  },
+  {
+    "question": "工人",
+    "answer": "Worker"
+  },
+  {
+    "question": "农民",
+    "answer": "Farmer"
+  },
+  {
+    "question": "老板",
+    "answer": "Boss"
+  },
+  {
+    "question": "同事",
+    "answer": "Colleague"
+  },
+  {
+    "question": "邻居",
+    "answer": "Neighbor"
+  },
+  {
+    "question": "陌生人",
+    "answer": "Stranger"
+  },
+  {
+    "question": "客人",
+    "answer": "Guest"
+  },
+  {
+    "question": "主人",
+    "answer": "Host"
+  },
+  {
+    "question": "年轻人",
+    "answer": "Young person"
+  },
+  {
+    "question": "老人",
+    "answer": "Elderly person"
+  },
+  {
+    "question": "成人",
+    "answer": "Adult"
+  },
+  {
+    "question": "单身",
+    "answer": "Single"
+  },
+  {
+    "question": "结婚",
+    "answer": "Married"
+  },
+  {
+    "question": "离婚",
+    "answer": "Divorced"
+  },
+  {
+    "question": "亲戚",
+    "answer": "Relative"
+  },
+  {
+    "question": "家人",
+    "answer": "Family members"
+  },
+  {
+    "question": "人口",
+    "answer": "Population"
+  },
+  {
+    "question": "民族",
+    "answer": "Ethnicity"
+  },
+  {
+    "question": "国籍",
+    "answer": "Nationality"
+  },
+  {
+    "question": "年龄",
+    "answer": "Age"
+  },
+  {
+    "question": "性格",
+    "answer": "Personality"
+  },
+  {
+    "question": "脾气",
+    "answer": "Temper"
+  },
+  {
+    "question": "外貌",
+    "answer": "Appearance"
+  }
+]

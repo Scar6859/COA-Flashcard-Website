@@ -1,0 +1,202 @@
+[
+  {
+    "question": "红色",
+    "answer": "Red"
+  },
+  {
+    "question": "蓝色",
+    "answer": "Blue"
+  },
+  {
+    "question": "绿色",
+    "answer": "Green"
+  },
+  {
+    "question": "黄色",
+    "answer": "Yellow"
+  },
+  {
+    "question": "白色",
+    "answer": "White"
+  },
+  {
+    "question": "黑色",
+    "answer": "Black"
+  },
+  {
+    "question": "灰色",
+    "answer": "Gray"
+  },
+  {
+    "question": "粉色",
+    "answer": "Pink"
+  },
+  {
+    "question": "紫色",
+    "answer": "Purple"
+  },
+  {
+    "question": "橙色",
+    "answer": "Orange"
+  },
+  {
+    "question": "棕色",
+    "answer": "Brown"
+  },
+  {
+    "question": "金色",
+    "answer": "Gold"
+  },
+  {
+    "question": "银色",
+    "answer": "Silver"
+  },
+  {
+    "question": "大",
+    "answer": "Big"
+  },
+  {
+    "question": "小",
+    "answer": "Small"
+  },
+  {
+    "question": "长",
+    "answer": "Long"
+  },
+  {
+    "question": "短",
+    "answer": "Short"
+  },
+  {
+    "question": "高",
+    "answer": "Tall / high"
+  },
+  {
+    "question": "矮",
+    "answer": "Short (height)"
+  },
+  {
+    "question": "胖",
+    "answer": "Fat"
+  },
+  {
+    "question": "瘦",
+    "answer": "Thin"
+  },
+  {
+    "question": "新",
+    "answer": "New"
+  },
+  {
+    "question": "旧",
+    "answer": "Old"
+  },
+  {
+    "question": "年轻",
+    "answer": "Young"
+  },
+  {
+    "question": "老",
+    "answer": "Old"
+  },
+  {
+    "question": "漂亮",
+    "answer": "Beautiful"
+  },
+  {
+    "question": "帅",
+    "answer": "Handsome"
+  },
+  {
+    "question": "丑",
+    "answer": "Ugly"
+  },
+  {
+    "question": "干净",
+    "answer": "Clean"
+  },
+  {
+    "question": "脏",
+    "answer": "Dirty"
+  },
+  {
+    "question": "热",
+    "answer": "Hot"
+  },
+  {
+    "question": "冷",
+    "answer": "Cold"
+  },
+  {
+    "question": "暖",
+    "answer": "Warm"
+  },
+  {
+    "question": "凉",
+    "answer": "Cool"
+  },
+  {
+    "question": "忙",
+    "answer": "Busy"
+  },
+  {
+    "question": "闲",
+    "answer": "Free / idle"
+  },
+  {
+    "question": "累",
+    "answer": "Tired"
+  },
+  {
+    "question": "容易",
+    "answer": "Easy"
+  },
+  {
+    "question": "难",
+    "answer": "Difficult"
+  },
+  {
+    "question": "重要",
+    "answer": "Important"
+  },
+  {
+    "question": "有趣",
+    "answer": "Interesting"
+  },
+  {
+    "question": "无聊",
+    "answer": "Boring"
+  },
+  {
+    "question": "高兴",
+    "answer": "Happy"
+  },
+  {
+    "question": "难过",
+    "answer": "Sad"
+  },
+  {
+    "question": "生气",
+    "answer": "Angry"
+  },
+  {
+    "question": "害怕",
+    "answer": "Afraid"
+  },
+  {
+    "question": "紧张",
+    "answer": "Nervous"
+  },
+  {
+    "question": "安静",
+    "answer": "Quiet"
+  },
+  {
+    "question": "吵",
+    "answer": "Noisy"
+  },
+  {
+    "question": "安全",
+    "answer": "Safe"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "头",
+    "answer": "Head"
+  },
+  {
+    "question": "脸",
+    "answer": "Face"
+  },
+  {
+    "question": "眼睛",
+    "answer": "Eyes"
+  },
+  {
+    "question": "耳朵",
+    "answer": "Ears"
+  },
+  {
+    "question": "鼻子",
+    "answer": "Nose"
+  },
+  {
+    "question": "嘴",
+    "answer": "Mouth"
+  },
+  {
+    "question": "牙齿",
+    "answer": "Teeth"
+  },
+  {
+    "question": "头发",
+    "answer": "Hair"
+  },
+  {
+    "question": "脖子",
+    "answer": "Neck"
+  },
+  {
+    "question": "肩膀",
+    "answer": "Shoulders"
+  },
+  {
+    "question": "手臂",
+    "answer": "Arms"
+  },
+  {
+    "question": "手",
+    "answer": "Hand"
+  },
+  {
+    "question": "手指",
+    "answer": "Fingers"
+  },
+  {
+    "question": "腿",
+    "answer": "Legs"
+  },
+  {
+    "question": "脚",
+    "answer": "Feet"
+  },
+  {
+    "question": "心",
+    "answer": "Heart"
+  },
+  {
+    "question": "胃",
+    "answer": "Stomach"
+  },
+  {
+    "question": "背",
+    "answer": "Back"
+  },
+  {
+    "question": "皮肤",
+    "answer": "Skin"
+  },
+  {
+    "question": "骨头",
+    "answer": "Bones"
+  },
+  {
+    "question": "健康",
+    "answer": "Health"
+  },
+  {
+    "question": "生病",
+    "answer": "Sick"
+  },
+  {
+    "question": "感冒",
+    "answer": "Cold (illness)"
+  },
+  {
+    "question": "发烧",
+    "answer": "Fever"
+  },
+  {
+    "question": "咳嗽",
+    "answer": "Cough"
+  },
+  {
+    "question": "头痛",
+    "answer": "Headache"
+  },
+  {
+    "question": "肚子痛",
+    "answer": "Stomachache"
+  },
+  {
+    "question": "药",
+    "answer": "Medicine"
+  },
+  {
+    "question": "医院",
+    "answer": "Hospital"
+  },
+  {
+    "question": "诊所",
+    "answer": "Clinic"
+  },
+  {
+    "question": "检查",
+    "answer": "Examination"
+  },
+  {
+    "question": "手术",
+    "answer": "Surgery"
+  },
+  {
+    "question": "休息",
+    "answer": "Rest"
+  },
+  {
+    "question": "睡觉",
+    "answer": "Sleep"
+  },
+  {
+    "question": "运动",
+    "answer": "Exercise"
+  },
+  {
+    "question": "跑步",
+    "answer": "Running"
+  },
+  {
+    "question": "游泳",
+    "answer": "Swimming"
+  },
+  {
+    "question": "瑜伽",
+    "answer": "Yoga"
+  },
+  {
+    "question": "减肥",
+    "answer": "Lose weight"
+  },
+  {
+    "question": "营养",
+    "answer": "Nutrition"
+  },
+  {
+    "question": "维生素",
+    "answer": "Vitamins"
+  },
+  {
+    "question": "过敏",
+    "answer": "Allergy"
+  },
+  {
+    "question": "受伤",
+    "answer": "Injured"
+  },
+  {
+    "question": "流血",
+    "answer": "Bleeding"
+  },
+  {
+    "question": "绷带",
+    "answer": "Bandage"
+  },
+  {
+    "question": "疫苗",
+    "answer": "Vaccine"
+  },
+  {
+    "question": "体检",
+    "answer": "Physical exam"
+  },
+  {
+    "question": "康复",
+    "answer": "Recovery"
+  },
+  {
+    "question": "疼痛",
+    "answer": "Pain"
+  },
+  {
+    "question": "舒服",
+    "answer": "Comfortable"
+  }
+]

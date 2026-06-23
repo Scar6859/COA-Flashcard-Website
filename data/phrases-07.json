@@ -1,0 +1,202 @@
+[
+  {
+    "question": "我不舒服。",
+    "answer": "I don't feel well."
+  },
+  {
+    "question": "我头疼。",
+    "answer": "I have a headache."
+  },
+  {
+    "question": "我发烧了。",
+    "answer": "I have a fever."
+  },
+  {
+    "question": "我咳嗽。",
+    "answer": "I have a cough."
+  },
+  {
+    "question": "我嗓子疼。",
+    "answer": "I have a sore throat."
+  },
+  {
+    "question": "我肚子疼。",
+    "answer": "I have a stomachache."
+  },
+  {
+    "question": "我感冒了。",
+    "answer": "I have a cold."
+  },
+  {
+    "question": "我需要看医生。",
+    "answer": "I need to see a doctor."
+  },
+  {
+    "question": "请帮我挂号。",
+    "answer": "Please help me register."
+  },
+  {
+    "question": "内科在哪里？",
+    "answer": "Where is internal medicine?"
+  },
+  {
+    "question": "我过敏。",
+    "answer": "I have allergies."
+  },
+  {
+    "question": "我对青霉素过敏。",
+    "answer": "I'm allergic to penicillin."
+  },
+  {
+    "question": "请量一下体温。",
+    "answer": "Please take my temperature."
+  },
+  {
+    "question": "血压高吗？",
+    "answer": "Is my blood pressure high?"
+  },
+  {
+    "question": "需要打针吗？",
+    "answer": "Do I need an injection?"
+  },
+  {
+    "question": "这药怎么吃？",
+    "answer": "How do I take this medicine?"
+  },
+  {
+    "question": "一天三次，饭后服用。",
+    "answer": "Three times a day after meals."
+  },
+  {
+    "question": "有什么副作用吗？",
+    "answer": "Are there side effects?"
+  },
+  {
+    "question": "要多喝水。",
+    "answer": "Drink more water."
+  },
+  {
+    "question": "要多休息。",
+    "answer": "Get more rest."
+  },
+  {
+    "question": "请躺下来。",
+    "answer": "Please lie down."
+  },
+  {
+    "question": "哪里疼？",
+    "answer": "Where does it hurt?"
+  },
+  {
+    "question": "疼得厉害吗？",
+    "answer": "Does it hurt a lot?"
+  },
+  {
+    "question": "从小就有的。",
+    "answer": "I've had it since childhood."
+  },
+  {
+    "question": "最近才开始的。",
+    "answer": "It just started recently."
+  },
+  {
+    "question": "需要做手术吗？",
+    "answer": "Do I need surgery?"
+  },
+  {
+    "question": "住院要多久？",
+    "answer": "How long is the hospital stay?"
+  },
+  {
+    "question": "医保可以用吗？",
+    "answer": "Can I use health insurance?"
+  },
+  {
+    "question": "请开病假条。",
+    "answer": "Please give me a sick leave note."
+  },
+  {
+    "question": "我扭到脚了。",
+    "answer": "I sprained my ankle."
+  },
+  {
+    "question": "我摔了一跤。",
+    "answer": "I fell down."
+  },
+  {
+    "question": "伤口要包扎吗？",
+    "answer": "Does the wound need bandaging?"
+  },
+  {
+    "question": "请帮我换药。",
+    "answer": "Please change my dressing."
+  },
+  {
+    "question": "复查什么时候？",
+    "answer": "When is the follow-up?"
+  },
+  {
+    "question": "检查结果出来了吗？",
+    "answer": "Are the test results ready?"
+  },
+  {
+    "question": "情况严重吗？",
+    "answer": "Is it serious?"
+  },
+  {
+    "question": "不要太担心。",
+    "answer": "Don't worry too much."
+  },
+  {
+    "question": "会好起来的。",
+    "answer": "You'll get better."
+  },
+  {
+    "question": "请戒烟戒酒。",
+    "answer": "Please quit smoking and drinking."
+  },
+  {
+    "question": "要控制饮食。",
+    "answer": "You need to control your diet."
+  },
+  {
+    "question": "多运动。",
+    "answer": "Exercise more."
+  },
+  {
+    "question": "睡眠质量不好。",
+    "answer": "My sleep quality is poor."
+  },
+  {
+    "question": "我失眠了。",
+    "answer": "I have insomnia."
+  },
+  {
+    "question": "压力很大。",
+    "answer": "I'm under a lot of stress."
+  },
+  {
+    "question": "需要心理咨询吗？",
+    "answer": "Do I need counseling?"
+  },
+  {
+    "question": "牙科在哪里？",
+    "answer": "Where is dentistry?"
+  },
+  {
+    "question": "我牙疼。",
+    "answer": "I have a toothache."
+  },
+  {
+    "question": "请洗牙。",
+    "answer": "Please clean my teeth."
+  },
+  {
+    "question": "视力检查。",
+    "answer": "Eye exam."
+  },
+  {
+    "question": "我看不清楚。",
+    "answer": "I can't see clearly."
+  }
+]

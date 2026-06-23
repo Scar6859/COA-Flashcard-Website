@@ -1,0 +1,202 @@
+[
+  {
+    "question": "喂，你好。",
+    "answer": "Hello? (on phone)"
+  },
+  {
+    "question": "请问是张先生吗？",
+    "answer": "May I speak to Mr. Zhang?"
+  },
+  {
+    "question": "请稍等。",
+    "answer": "Please hold on."
+  },
+  {
+    "question": "他不在。",
+    "answer": "He's not here."
+  },
+  {
+    "question": "可以留言吗？",
+    "answer": "Can I leave a message?"
+  },
+  {
+    "question": "请转告他回电话。",
+    "answer": "Please tell him to call back."
+  },
+  {
+    "question": "打错了。",
+    "answer": "Wrong number."
+  },
+  {
+    "question": "信号不好，听不清。",
+    "answer": "Bad signal, I can't hear clearly."
+  },
+  {
+    "question": "我发短信给你。",
+    "answer": "I'll text you."
+  },
+  {
+    "question": "你的微信号是多少？",
+    "answer": "What's your WeChat ID?"
+  },
+  {
+    "question": "我加你好友。",
+    "answer": "I'll add you as a friend."
+  },
+  {
+    "question": "我通过了你的好友请求。",
+    "answer": "I accepted your friend request."
+  },
+  {
+    "question": "在吗？",
+    "answer": "Are you there?"
+  },
+  {
+    "question": "收到。",
+    "answer": "Received."
+  },
+  {
+    "question": "好的。",
+    "answer": "OK."
+  },
+  {
+    "question": "没问题。",
+    "answer": "No problem."
+  },
+  {
+    "question": "wifi密码是多少？",
+    "answer": "What's the WiFi password?"
+  },
+  {
+    "question": "连不上网。",
+    "answer": "Can't connect to the internet."
+  },
+  {
+    "question": "网速太慢了。",
+    "answer": "The internet is too slow."
+  },
+  {
+    "question": "请重启路由器。",
+    "answer": "Please restart the router."
+  },
+  {
+    "question": "我电脑死机了。",
+    "answer": "My computer froze."
+  },
+  {
+    "question": "请更新软件。",
+    "answer": "Please update the software."
+  },
+  {
+    "question": "文件打不开了。",
+    "answer": "The file won't open."
+  },
+  {
+    "question": "请把链接发给我。",
+    "answer": "Please send me the link."
+  },
+  {
+    "question": "我转发给你。",
+    "answer": "I'll forward it to you."
+  },
+  {
+    "question": "请查收邮件。",
+    "answer": "Please check your email."
+  },
+  {
+    "question": "附件太大了。",
+    "answer": "The attachment is too big."
+  },
+  {
+    "question": "视频会议几点开始？",
+    "answer": "What time does the video meeting start?"
+  },
+  {
+    "question": "请开摄像头。",
+    "answer": "Please turn on your camera."
+  },
+  {
+    "question": "请静音。",
+    "answer": "Please mute yourself."
+  },
+  {
+    "question": "你能听到我说话吗？",
+    "answer": "Can you hear me?"
+  },
+  {
+    "question": "我屏幕共享一下。",
+    "answer": "I'll share my screen."
+  },
+  {
+    "question": "账号被盗了。",
+    "answer": "My account was hacked."
+  },
+  {
+    "question": "请改密码。",
+    "answer": "Please change your password."
+  },
+  {
+    "question": "验证码发你了。",
+    "answer": "I sent you the verification code."
+  },
+  {
+    "question": "手机没电了。",
+    "answer": "My phone is out of battery."
+  },
+  {
+    "question": "请给我充电宝。",
+    "answer": "Please lend me a power bank."
+  },
+  {
+    "question": "我换手机号了。",
+    "answer": "I changed my phone number."
+  },
+  {
+    "question": "请保存我的新号码。",
+    "answer": "Please save my new number."
+  },
+  {
+    "question": "语音留言已发送。",
+    "answer": "Voice message sent."
+  },
+  {
+    "question": "请勿打扰。",
+    "answer": "Do not disturb."
+  },
+  {
+    "question": "飞行模式。",
+    "answer": "Airplane mode."
+  },
+  {
+    "question": "数据漫游怎么开？",
+    "answer": "How do I turn on data roaming?"
+  },
+  {
+    "question": "订阅到期了。",
+    "answer": "The subscription expired."
+  },
+  {
+    "question": "请取消自动续费。",
+    "answer": "Please cancel auto-renewal."
+  },
+  {
+    "question": "下载失败了。",
+    "answer": "Download failed."
+  },
+  {
+    "question": "正在上传，请稍等。",
+    "answer": "Uploading, please wait."
+  },
+  {
+    "question": "网断了。",
+    "answer": "The connection dropped."
+  },
+  {
+    "question": "我上线一下。",
+    "answer": "I'll come online for a bit."
+  },
+  {
+    "question": "喂，你好。",
+    "answer": "Hello? (on phone)"
+  }
+]
